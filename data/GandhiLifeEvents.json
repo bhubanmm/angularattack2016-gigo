@@ -1,0 +1,39 @@
+{
+  "Personality": {
+    "Name": "Mohandas Karamchand Gandhi",
+    "Event": [
+      {
+        "Date": "02/11/1869",
+        "Location": " Porbandar,Gujrat",
+        "latitude": "21.641707",
+        "longitude": "69.629265",
+        "Description": "Mahatma Gandhi, was born on October 2, 1869, in Porbandar, Kathiawar, India, which was then part of the British Empire. His father, Karamchand Gandhi, served as a chief minister in Porbandar and other states in western India. His mother, Putlibai, was a deeply religious woman who fasted regularly. Gandhi grew up worshiping the Hindu god Vishnu and following Jainism, a morally rigorous ancient Indian religion that espoused non-violence, fasting, meditation and vegetarianism.",
+        "link": "http://www.history.co.uk/biographies/mahatma-gandhi"
+      },
+      {
+        "Date": "04/10/1888",
+        "Location": "University College London",
+        "latitude": "51.524706",
+        "longitude": "-0.133569",
+        "Description": "On 4 September 1888, less than a month shy of his 19th birthday, Gandhi traveled to London, England, to study law at University College London and to train as a barrister.",
+        "link": "https://worldhistoryproject.org/1888/9/4/mohandes-gandhi-travels-to-london-to-train-as-a-barrister"
+      },
+      {
+        "Date": "03/12/1930",
+        "Location": "Dandi, Gujarat",
+        "latitude": "20.887427",
+        "longitude": "72.805374",
+        "Description": "On March 12, 1930, Gandhi and 78 male satyagrahis set out on foot for the coastal village of Dandi, Gujarat, 390 kilometres (240 mi) from their starting point at Sabarmati Ashram.",
+        "link": "https://worldhistoryproject.org/1930/4/6/mahatma-gandhi-arrives-at-dandi-gujarat-concluding-the-salt-march"
+      },
+      {
+        "Date": "01/30/1948",
+        "Location": "Birla Bhavan,Delhi",
+        "latitude": "28.592370",
+        "longitude": "77.221461",
+        "Description": "On January 30, 1948, Madanlal Pahwa, Shankar Kistaiya, Digambar Badge, Vishnu Karkare, Gopal Godse, Nathuram Godse, and Narayan Apte came to Birla Bhavan (aka Birla House) in Delhi to carry out another attack on Mahatma Gandhi.",
+        "link": "https://worldhistoryproject.org/1948/1/30/mohandas-karamchand-gandhi-is-assassinated-by-nathuram-godse"
+      }
+    ]
+  }
+}
