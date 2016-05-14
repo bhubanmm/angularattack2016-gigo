@@ -1,55 +1,96 @@
-H1 {
-color: white; background: teal; FONT-FAMILY: arial, helvetica, lucida-sans, sans-serif; FONT-SIZE: 18pt; FONT-STYLE: normal; FONT-VARIANT: normal
+html, body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 12pt;
 }
-H2 {
-COLOR: #000000; FONT-FAMILY: verdana, helvetica, lucida-sans, sans-serif; FONT-SIZE: 14pt; FONT-STYLE: normal; FONT-VARIANT: normal
+
+img {
+    max-width: 150px;
 }
-H3 {
-COLOR: #000000; FONT-FAMILY: lucida-sans, sans-serif; FONT-SIZE: 14pt; FONT-STYLE: normal; FONT-VARIANT: normal
+
+h1 {
+    color: white;
+    background: teal;
+    font-size: 18pt;
 }
-H4 {
-COLOR: #000000; FONT-FAMILY: lucida-sans, sans-serif; FONT-SIZE: 12pt; FONT-STYLE: normal; FONT-VARIANT: normal
+
+h2 {
+    font-size: 14pt;
 }
-H5 {
-color: white; background: darkblue; FONT-FAMILY: lucida-sans, sans-serif; FONT-SIZE: 12pt; FONT-STYLE: normal; FONT-VARIANT: normal
+
+h3 {
+    font-size: 14pt;
 }
-H6 {
-color: yellow; background: green; FONT-FAMILY: lucida-sans, sans-serif; FONT-SIZE: 10pt; FONT-STYLE: normal; FONT-VARIANT: normal
+
+h4 {
+    font-size: 12pt;
+}
+
+h5 {
+    color: white;
+    background: darkblue;
+    font-size: 12pt;
+}
+
+h6 {
+    color: yellow;
+    background: green;
+    font-size: 10pt;
 }
 
 body {
-COLOR: #000000; FONT-FAMILY: lucida-sans, sans-serif; FONT-SIZE: 10pt; FONT-STYLE: normal; FONT-VARIANT: normal
+    font-size: 10pt;
 }
+
 .localheader {
-COLOR: #dddddd; FONT-FAMILY: geneva, arial, helvetica, lucida-sans, sans-serif; FONT-SIZE: 15px; TEXT-DECORATION: none
+    color: #dddddd;
+    font-size: 15px;
+    text-decoration: none;
 }
+
 .locallink {
-COLOR: #dddddd; FONT-FAMILY: geneva, arial, helvetica, lucida-sans, sans-serif; FONT-SIZE: 13px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+    color: #dddddd;
+    font-size: 13px;
+    text-decoration: none;
 }
+
 .localsublink {
-COLOR: #dddddd; FONT-FAMILY: geneva, arial, helvetica, lucida-sans, sans-serif; FONT-SIZE: 11px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+    color: #dddddd;
+    font-size: 11px;
+    text-decoration: none;
 }
+
 .tm {
-COLOR: #000000; FONT-FAMILY: geneva, arial, helvetica, lucida-sans, sans-serif; FONT-SIZE: 8pt; FONT-STYLE: normal; FONT-VARIANT: normal
+    font-size: 8pt;
 }
-A:link .nonu {
-COLOR: #000000; TEXT-DECORATION: none
+
+a:link .nonu {
+    color: #000000;
+    text-decoration: none;
 }
+
 .nonuw {
-COLOR: #ffffff; TEXT-DECORATION: none
+    color: #ffffff;
+    text-decoration: none;
 }
-A:visited .nonu {
-TEXT-DECORATION: none
+
+a:visited .nonu {
+    text-decoration: none;
 }
+
 .linespace {
-LINE-HEIGHT: 120%
+    line-height: 120%;
 }
+
 .just {
-TEXT-ALIGN: justify
+    text-align: justify;
 }
-CODE {
-COLOR: #666666; FONT-FAMILY: courier, monaco, courier new; FONT-SIZE: 12pt
+
+code {
+    color: #666666;
+    font-size: 12pt;
 }
-KBD {
-COLOR: #666666; FONT-FAMILY: courier, monaco, courier new; FONT-SIZE: 12pt
+
+kbd {
+    color: #666666;
+    font-size: 12pt;
 }
