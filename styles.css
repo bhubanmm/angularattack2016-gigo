@@ -7,6 +7,10 @@ img {
     max-width: 150px;
 }
 
+article {
+    width: 40%;
+}
+
 h1 {
     color: white;
     background: teal;
