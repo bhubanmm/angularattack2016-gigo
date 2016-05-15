@@ -2,7 +2,7 @@
   app.EventDateDetailsComponent =
     ng.core.Component({
       selector: 'event-details',
-      templateUrl: 'app/app.eventDetails.html',
+      templateUrl: 'app/app.eventdetails.html',
       inputs: ['eventInstance']
     })
     .Class({
