@@ -1,0 +1,5 @@
+<select>
+    <option *ngFor="let personality of Personalities" value="{{personality.Name}}" [class.selected]="personality === selectedEntity" (click)="onSelect(personality)">{{personality.Name}}
+    </option>
+</select>
+<gigo-person-detail [personality]="selectedEntity" [events]="eventsForPerson"></gigo-person-detail>

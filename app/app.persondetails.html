@@ -1,0 +1,12 @@
+<div>
+<article *ngIf="personality">
+    <h1>{{personality.Name}}</h1>
+    <img src="{{personality.Pic}}" alt="{{personality.Name}}"/>
+</article>
+</div>
+<div>
+    <ol>
+        <li *ngFor="let event of events"> <a href="#" (click)="showEventDetails(event)">{{event.Date}}</a></li>
+    </ol>
+</div>
+<event-details [eventInstance]="eventObject"></event-details>
