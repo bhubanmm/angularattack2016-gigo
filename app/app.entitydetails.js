@@ -2,7 +2,7 @@
   app.EventDetailComponent =
     ng.core.Component({
       selector: 'gigo-event-detail',
-      templateUrl: 'app/app.entityDetails.html',
+      templateUrl: 'app/app.entitydetails.html',
       inputs: ['Personality', 'Event']
     })
     .Class({
@@ -19,9 +19,6 @@
             "Description": "Mahatma Gandhi, was born on October 2, 1869, in Porbandar, Kathiawar, India, which was then part of the British Empire. His father, Karamchand Gandhi, served as a chief minister in Porbandar and other states in western India. His mother, Putlibai, was a deeply religious woman who fasted regularly. Gandhi grew up worshiping the Hindu god Vishnu and following Jainism, a morally rigorous ancient Indian religion that espoused non-violence, fasting, meditation and vegetarianism.",
             "link": "http://www.history.co.uk/biographies/mahatma-gandhi"
           };
-      },
-      getPersonality: function() {
-          
       }
     });
 })(window.app || (window.app = {}));
