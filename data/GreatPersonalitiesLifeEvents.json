@@ -1,78 +1,554 @@
 {
   "Personalities": [{
-    "Name": "Mohandas Karamchand Gandhi",
-    "Pic": "http://www.history.co.uk/sites/default/files/bios/mahatmagandhi225.jpg",
-    "Events": [
-      {
-        "Date": "02/11/1869",
-        "Location": " Porbandar,Gujrat",
-        "latitude": "21.641707",
-        "longitude": "69.629265",
-        "Description": "Mahatma Gandhi, was born on October 2, 1869, in Porbandar, Kathiawar, India, which was then part of the British Empire. His father, Karamchand Gandhi, served as a chief minister in Porbandar and other states in western India. His mother, Putlibai, was a deeply religious woman who fasted regularly. Gandhi grew up worshiping the Hindu god Vishnu and following Jainism, a morally rigorous ancient Indian religion that espoused non-violence, fasting, meditation and vegetarianism.",
-        "link": "http://www.history.co.uk/biographies/mahatma-gandhi"
-      },
-      {
-        "Date": "04/10/1888",
-        "Location": "University College London",
-        "latitude": "51.524706",
-        "longitude": "-0.133569",
-        "Description": "On 4 September 1888, less than a month shy of his 19th birthday, Gandhi traveled to London, England, to study law at University College London and to train as a barrister.",
-        "link": "https://worldhistoryproject.org/1888/9/4/mohandes-gandhi-travels-to-london-to-train-as-a-barrister"
-      },
-      {
-        "Date": "03/12/1930",
-        "Location": "Dandi, Gujarat",
-        "latitude": "20.887427",
-        "longitude": "72.805374",
-        "Description": "On March 12, 1930, Gandhi and 78 male satyagrahis set out on foot for the coastal village of Dandi, Gujarat, 390 kilometres (240 mi) from their starting point at Sabarmati Ashram.",
-        "link": "https://worldhistoryproject.org/1930/4/6/mahatma-gandhi-arrives-at-dandi-gujarat-concluding-the-salt-march"
-      },
-      {
-        "Date": "01/30/1948",
-        "Location": "Birla Bhavan,Delhi",
-        "latitude": "28.592370",
-        "longitude": "77.221461",
-        "Description": "On January 30, 1948, Madanlal Pahwa, Shankar Kistaiya, Digambar Badge, Vishnu Karkare, Gopal Godse, Nathuram Godse, and Narayan Apte came to Birla Bhavan (aka Birla House) in Delhi to carry out another attack on Mahatma Gandhi.",
-        "link": "https://worldhistoryproject.org/1948/1/30/mohandas-karamchand-gandhi-is-assassinated-by-nathuram-godse"
-      }
-    ]
-  },
+        "Name": "Mohandas Karamchand Gandhi",
+        "Pic": "http://www.history.co.uk/sites/default/files/bios/mahatmagandhi225.jpg",
+        "Events": [
+            {
+                "Date": "02/11/1869",
+                "Location": " Porbandar,Gujrat",
+                "latitude": "21.641707",
+                "longitude": "69.629265",
+                "Description": "Mahatma Gandhi, was born on October 2, 1869, in Porbandar, Kathiawar, India, which was then part of the British Empire. His father, Karamchand Gandhi, served as a chief minister in Porbandar and other states in western India. His mother, Putlibai, was a deeply religious woman who fasted regularly. Gandhi grew up worshiping the Hindu god Vishnu and following Jainism, a morally rigorous ancient Indian religion that espoused non-violence, fasting, meditation and vegetarianism.",
+                "link": "http://www.history.co.uk/biographies/mahatma-gandhi",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/18aec9b6173d61329e74978c04709303_three_column.jpg"
+            },
+            {
+                "Date": "01/01/1876",
+                "Location": " Rajkot,Gujrat",
+                "latitude": "21.641707",
+                "longitude": "69.629265",
+                "Description": "Mohandes Gandhi Begins Primary School in Rajkot.\nThe Indian classics, especially the stories of Shravana and Maharaja Harishchandra from the Indian epics, had had a great impact on Gandhi in his childhood.",
+                "link": "https://worldhistoryproject.org/1876/mohandes-gandhi-begins-primary-school-in-rajkot",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/1109aaa3e10a1711e33b1903a03ee5ce_three_column.gif"
+            },
+            {
+                "Date": "01/01/1881",
+                "Location": " Rajkot,Gujrat",
+                "latitude": "21.641707",
+                "longitude": "69.629265",
+                "Description": "Mohandes Gandhi Enters High School in Rajkot.Gandhi was a shy and fearful child.\nShort and spindly, he shied away from athletics, and his lack of physical prowess was matched by his difficulties in school. Though in later years he would read the Bible, Tolstoy, and the Bhagavad-Gita with great enthusiasm, the young Gandhi labored over the multiplication tables and never rose above academic mediocrity.",
+                "link": "https://worldhistoryproject.org/1881/mohandes-gandhi-enters-high-school-in-rajkot",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/7ec26a2bf2a8c6d07a5916caad7778e7_three_column.jpg"
+            },
+            {
+                "Date": "01/01/1885",
+                "Location": "Bombay",
+                "latitude": "21.641707",
+                "longitude": "69.629265",
+                "Description": "Mohandes Gandhi's Father Dies at 63.Mohan passed the matriculation examination of Bombay University in 1887.",
+                "link": "https://worldhistoryproject.org/1885/mohandes-gandhis-father-dies-at-63",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/76370e2467c96936f1f1c635bbed5ec7_three_column.jpg"
+            },
+            {
+                "Date": "04/10/1888",
+                "Location": "University College London",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "On 4 September 1888, less than a month shy of his 19th birthday, Gandhi traveled to London, England, to study law at University College London and to train as a barrister.",
+                "link": "https://worldhistoryproject.org/1888/9/4/mohandes-gandhi-travels-to-london-to-train-as-a-barrister",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/02446901c29ba7b57b948eb58f56f6cd_three_column.jpg"
+            },
+            {
+                "Date": "06/12/1891",
+                "Location": "Bombay",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Gandhi was called to the bar on June 10, 1891 and left London for India on June 12, 1891, where he learned that his mother had died while he was in London, his family having kept the news from him. His attempts at establishing a law practice in Mumbai failed and, later, after applying and being turned down for a part-time job as a high school teacher, he ended up returning to Rajkot to make a modest living drafting petitions for litigants, a business he was forced to close when he ran afoul of a British officer.",
+                "link": "https://worldhistoryproject.org/1891/6/12/mohandes-gandhi-returns-to-india-from-london-after-passing-the-bar",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/02446901c29ba7b57b948eb58f56f6cd_three_column.jpg"
+            },
+            {
+                "Date": "01/04/1893",
+                "Location": "South Africa",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Mohandes Gandhi Travels to South Africa to Work Under a Year-Long Contract with Dada Abdulla and Co, an Indian Firm.Mohandas Karamchand Gandhi was a young man of 24 when he arrived in South Africa in 1893.",
+                "link": "https://worldhistoryproject.org/1893/4/mohandes-gandhi-travels-to-south-africa-to-work-under-a-year-long-contract-with-dada-abdulla-co-an-indian-firm",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/5ead56d507ab5fca945784823e0a0a4e_three_column.jpg"
+            },
+            {
+                "Date": "22/08/1894",
+                "Location": "South Africa",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Mohandes Gandhi Founds the Natal Indian Congress.Gandhi realized that what the India urgently needed was a permanent organization to look after their interests.",
+                "link": "https://worldhistoryproject.org/1894/8/22/mohandes-gandhi-founds-the-natal-indian-congress",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/16fa728156df024647ed307b5ccfe8c9_three_column.jpg"
+            },
+            {
+                "Date": "22/08/1899",
+                "Location": "South Africa",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Gandhi Organizes an Indian Ambulance Corps of 1100 Men During His Service in the Boer War.",
+                "link": "https://worldhistoryproject.org/1899/gandhi-organizes-an-indian-ambulance-corps-of-1100-men-during-his-service-in-the-boer-war",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/343aabda7899dc3650e47799a66ffce3_three_column.jpg"
+            },
+            {
+                "Date": "22/08/1894",
+                "Location": "South Africa",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Influenced by the teachings of Ruskin, Gandhi purchased a farm at Phoenix, near Mount Edgecombe in 1904 in order to establish a communal settlement.",
+                "link": "https://worldhistoryproject.org/1904/11/gandhi-founds-the-phoenix-settlement",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/f0d76d438c0f72c32d05a63192f950da_three_column.jpg"
+            },
+            {
+                "Date": "11/10/1906",
+                "Location": "South Africa",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Gandhi Introduces Non-Violent Protest Philosophy of Satyagraha.",
+                "link": "https://worldhistoryproject.org/1906/9/11/gandhi-introduces-non-violent-protest-philosophy-of-satyagraha",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/f4cd6dd0d36d2db81e5ea82da0a81f3f_three_column.jpg"
+            },
+            {
+                "Date": "30/05/1910",
+                "Location": "Johannesburg,South Africa",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Gandhi Establishes the Tolstoy Farm, which Serves as a Base of Operations for His Activities in South Africa.",
+                "link": "https://worldhistoryproject.org/1910/5/30/gandhi-establishes-the-tolstoy-farm-which-serves-as-a-base-of-operations-for-his-activities-in-south-africa",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/803d2c3cce275801d8f3cd3535dd21f9_three_column.jpg"
+            },
+            {
+                "Date": "06/11/1913",
+                "Location": "South Africa",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Gandhi Begins \"Great March\" to Gain Indian Rights in South Africa.Led at 6.30.a.m. the \"great march\", consisting of 2,037 men, 127 women and 57 children from Charlestown; addressed marchers halfway between Charlestown and Volksrust.",
+                "link": "https://worldhistoryproject.org/1913/11/6/gandhi-begins-great-march-to-gain-indian-rights-in-south-africa",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/47301455a06368148d9dd569ab79ce91_three_column.jpg"
+            },
+            {
+                "Date": "09/01/1915",
+                "Location": "Bombay",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Gandhi Receives Hero's Welcome Upon Returning to India from South Africa.",
+                "link": "https://worldhistoryproject.org/1915/1/9/gandhi-receives-heros-welcome-upon-returning-to-india-from-south-africa",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/6c140c60ae8c8e7aae42bd4a0f13ca47_three_column.gif"
+            },
+            {
+                "Date": "09/04/1917",
+                "Location": "Champaran,Bihar",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Bhumihar Brahmins in Champaran had earlier revolted against the conditions of indigo cultivation in 1914 (at Pipra) and 1916 (Turkaulia). Then Pandit Raj Kumar Shukla persuaded Mahatma Gandhi to visit Champaran and the \"Champaran Satyagraha\" began.",
+                "link": "https://worldhistoryproject.org/1917/4/gandhi-goes-to-champaran-to-investigate-conditions-of-local-farmers",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/11234a367aaea9a0ba3da39404455588_three_column.jpg"
+            },
+            {
+                "Date": "17/06/1917",
+                "Location": "Sabarmati,Gujrat",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Gandhi Establishes Sabarmati Ashram.",
+                "link": "https://worldhistoryproject.org/1917/6/17/gandhi-establishes-sabarmati-ashram",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/493e3103b78650a253755af2a6ea3815_three_column.jpg"
+            },
+            {
+                "Date": "01/03/1919",
+                "Location": "Delhi",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "British Government Passes the Rowlatt Act in Colonial India, Indefinitely Extending the Use of 'Emergency Measures'.",
+                "link": "https://worldhistoryproject.org/1919/3/british-government-passes-the-rowlatt-act-in-colonial-india-indefinitely-extending-the-use-of-emergency-measures",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/e19bb345918873b0f48ab2e1364e26f3_three_column.gif"
+            },
+            {
+                "Date": "13/04/1919",
+                "Location": "Punjab",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "The Jallianwala Bagh Massacre , alternatively known as the Amritsar Massacre, was named after the Jallianwala Bagh (Garden) in the northern Indian city of Amritsar where, on April 13, 1919, 90 British Indian Army soldiers under the command of Brigadier-General Reginald Dyer opened fire on a peaceful religious gathering of Sikh men, women and children. The firing lasted for 10 to 15 minutes, until they ran out of ammunition. Official British Raj sources placed the fatalities at 379, and with 1100 wounded. Civil Surgeon Dr. Smith indicated that there were 1,526 casualties.",
+                "link": "https://worldhistoryproject.org/1919/4/13/jallianwala-bagh-massacre",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/fc6da471bdfb9145baa8a267e352c97c_three_column.jpg"
+            },
+            {
+                "Date": "01/11/1920",
+                "Location": "Delhi",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "The non-cooperation movement , was the first-ever series of nationwide people's movements of nonviolent resistance and civil disobedience, led by Mahatma Gandhi and the Indian National Congress.",
+                "link": "https://worldhistoryproject.org/1920/9/the-gandhi-era-of-the-indian-independence-movement-begins-with-the-non-cooperation-movement",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/f9634e5b92d906dc0b39e6f71f7e1f83_three_column.jpg"
+            },
+            {
+                "Date": "04/02/1922",
+                "Location": "Chauri Chaura,UttarPradesh",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Nationalist Mob Sets Fire to a Police Station in Chauri Chaura Incident, Prompting Mahatma Gandhi to Call Off the Non-Cooperation Movement.",
+                "link": "https://worldhistoryproject.org/1922/2/nationalist-mob-sets-fire-to-a-police-station-in-chauri-chaura-incident-prompting-mahatma-gandhi-to-call-off-the-non-cooperation-movement",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/867f66786bc89115102d7edb5133cbac_three_column.gif"
+            },
+            {
+                "Date": "01/10/1924",
+                "Location": "Delhi",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Gandhi Begins Twenty-One Day Fast in an Attempt to Reconcile Hindus and Muslims.",
+                "link": "https://worldhistoryproject.org/1924/9/gandhi-begins-twenty-one-day-fast-in-an-attempt-to-reconcile-hindus-and-muslims",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/22eedf112c5f5f8b070f5ccafd4e779a_three_column.jpg"
+            },
+            {
+                "Date": "01/03/1919",
+                "Location": "",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "",
+                "link": "",
+                "img": ""
+            },
+            {
+                "Date": "01/03/1927",
+                "Location": "Delhi",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Gandhi's 'The Story of My Experiments with Truth' is Published.",
+                "link": "https://worldhistoryproject.org/1927/gandhis-the-story-of-my-experiments-with-truth-is-published",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/04890c5864f9dab599f15052b593c3bf_three_column.jpg"
+            },
+            {
+                "Date": "31/12/1929",
+                "Location": "Delhi",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Indian National Congress Raises the Tricolor Flag of India.",
+                "link": "https://worldhistoryproject.org/1929/12/31/indian-national-congress-raises-the-tricolor-flag-of-india",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/fa03a5efe612bfd3d78c4f691d1c1b42_three_column.png"
+            },
+            {
+                "Date": "26/01/1930",
+                "Location": "Delhi",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "The Declaration of the Independence of India was promulgated by the Indian National Congress on January 26, 1930, resolving the Congress and Indian nationalists to fight for Purna Swaraj, or complete self-rule apart from the British Empire.",
+                "link": "https://worldhistoryproject.org/1930/1/26/declaration-of-the-independence-of-india",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/6b13421f2cbb9e1c6c56a99b60418199_three_column.jpg"
+            },
+            {
+                "Date": "03/12/1930",
+                "Location": "Dandi, Gujarat",
+                "latitude": "20.887427",
+                "longitude": "72.805374",
+                "Description": "On March 12, 1930, Gandhi and 78 male satyagrahis set out on foot for the coastal village of Dandi, Gujarat, 390 kilometres (240 mi) from their starting point at Sabarmati Ashram.",
+                "link": "https://worldhistoryproject.org/1930/4/6/mahatma-gandhi-arrives-at-dandi-gujarat-concluding-the-salt-march",
+                "img": ""
+            },
+            {
+                "Date": "05/03/1931",
+                "Location": "England.",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Gandhi–Irwin Pact refers to a political agreement signed by Mahatma Gandhi and the then Viceroy of India, Lord Irwin on 5th March 1931.",
+                "link": "https://worldhistoryproject.org/1931/3/5/lord-irwin-viceroy-of-india-signs-the-gandhi-irwin-pact",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/0b2a78115afe880013b12d99915944a5_three_column.gif"
+            },
+            {
+                "Date": "29/08/1931",
+                "Location": "England",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "On August 29, 1931, Gandhi sailed for England in the SS Rajputana to attend the Second Round Table Conference, He went as the sole representative of the Indian National Congress.",
+                "link": "https://worldhistoryproject.org/1931/8/29/gandhi-sets-sail-for-england-to-represent-the-indian-national-congress-at-the-second-round-table-conference",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/cee66365717895a1102eaf3ecdd529a6_three_column.gif"
+            },
+            {
+                "Date": "03/03/1939",
+                "Location": "Rajkot,Gujrat",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Gandhi Announces Fast-Unto-Death in the Effort to Form a People's Council in Rajkot.",
+                "link": "https://worldhistoryproject.org/1939/3/3/gandhi-announces-fast-unto-death-in-the-effort-to-form-a-peoples-council-in-rajkot",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/d479f44c165631a9aed73ef586df6718_three_column.jpg"
+            },
+            {
+                "Date": "08/08/1942",
+                "Location": "Delhi",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "The \"Quit India\" resolution passed by the All-India Congress Committee brought it into a head-on collision with the Government in August 1942.",
+                "link": "https://worldhistoryproject.org/1942/8/8/the-all-india-congress-committee-launches-the-quit-india-movement",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/6b759c94e9284c23a2819c35ffa5b4c4_three_column.gif"
+            },
+            {
+                "Date": "22/02/1944",
+                "Location": "Sabarmati,Gujrat",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Kasturba Gandhi Dies at Age 74.Kasturba suffered from chronic bronchitis.",
+                "link": "https://worldhistoryproject.org/1944/2/22/kasturba-gandhi-dies-at-age-74",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/25ae9733673978e93ed4a0822c769705_three_column.jpg"
+            },
+            {
+                "Date": "01/05/1946",
+                "Location": "Shimla",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "In the summer of 1945, a conference was convened at Simla by the Viceroy, Lord Wavell, who had recently returned from England with the approval of the Newspaper report of the outcome of the Simla Conference British Cabinet to a proposal for reconstituting the Executive Council in consultation with Indian leaders. Gandhi was not a delegate to the conference, though he was consulted by the Viceroy and the Congress working committee.",
+                "link": "https://worldhistoryproject.org/1946/5/5/the-simla-conference",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/f2d8581d58e217a5c60c66680554c4f0_three_column.gif"
+            },
+            {
+                "Date": "16/08/1946",
+                "Location": "Calcutta",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Direct Action Day, also known as the Great Calcutta Riot, was on 16 August 1946—a day of widespread riot and manslaughter in the city of Calcutta (now known as Kolkata) in the Bengal province of British India.",
+                "link": "https://worldhistoryproject.org/1946/8/16/direct-action-day-also-known-as-the-great-calcutta-killing",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/930bc4f04f96dc57bc0bfa2cef3026b8_three_column.jpg"
+            },
+            {
+                "Date": "02/10/1946",
+                "Location": "Delhi",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Formation of the Interim Government of India.",
+                "link": "https://worldhistoryproject.org/1946/9/2/formation-of-the-interim-government-of-india",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/981127936d45502d2602c301f9d043bd_three_column.gif"
+            },
+            {
+                "Date": "15/06/1947",
+                "Location": "Delhi",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "United Kingdom Passes the Indian Independence Act 1947.The Indian Independence Act 1947 was the statute (10 and 11 Geo VI, c. 30) enacted by the Parliament of the United Kingdom promulgating the partition of India and the independence of the dominions of Pakistan and India.",
+                "link": "https://worldhistoryproject.org/1947/6/15/united-kingdom-passes-the-indian-independence-act-1947",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/48b169cda7e9629473d9d96bad3f5417_three_column.jpg"
+            },
+            {
+                "Date": "15/08/1947",
+                "Location": "India",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "The Partition of India was the partition of British India that led to the creation, on August 14, 1947 and August 15, 1947, respectively, of the sovereign states of the Dominion of Pakistan (later Islamic Republic of Pakistan and People's Republic of Bangladesh) and the Union of India (later Republic of India). The partition of India included the geographical division of the Bengal province of British India into East Pakistan and West Bengal (India), and the similar partition of the Punjab province into West Punjab (later Punjab (Pakistan) and Islamabad Capital Territory) and East Punjab (later Punjab (India), Haryana and Himachal Pradesh), and also the division of other assets, including the British Indian Army, the Indian Civil Service and other administrative services, the Indian railways, and the central treasury. The partition was promulgated in the Indian Independence Act 1947 and resulted in the dissolution of the British Indian Empire.",
+                "link": "https://worldhistoryproject.org/1947/8/15/the-partition-of-india",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/b45add4f6cb04b8fb913941fd28cff19_three_column.jpg"
+            },
+            {
+                "Date": "12/01/1948",
+                "Location": "Delhi",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Mahatma Gandhi Announces Fast to End Hindu/Muslim Violence in Delhi.He conducted extensive dialogue with Muslim and Hindu community leaders, working to cool passions in northern India, as well as in Bengal.",
+                "link": "https://worldhistoryproject.org/1948/1/12/mahatma-gandhi-announces-fast-to-end-hindu-muslim-violence-in-delhi",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/e9b57c3c1d5b903126dca616c63124f9_three_column.jpg"
+            },
+            {
+                "Date": "01/30/1948",
+                "Location": "Birla Bhavan,Delhi",
+                "latitude": "28.592370",
+                "longitude": "77.221461",
+                "Description": "On January 30, 1948, Madanlal Pahwa, Shankar Kistaiya, Digambar Badge, Vishnu Karkare, Gopal Godse, Nathuram Godse, and Narayan Apte came to Birla Bhavan (aka Birla House) in Delhi to carry out another attack on Mahatma Gandhi.",
+                "link": "https://worldhistoryproject.org/1948/1/30/mohandas-karamchand-gandhi-is-assassinated-by-nathuram-godse",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/e9e363eefbc4e9445455b0d56efd35ed_three_column.jpg"
+            }
+        ]
+    },
   {
-    "Name": "Abraham Lincoln",
-    "Pic": "http://www.history.co.uk/sites/default/files/bios/abraham-lincoln-225x300.jpg",
-    "Events": [
-      {
-        "Date": "02/11/1869",
-        "Location": " Porbandar,Gujrat",
-        "latitude": "21.641707",
-        "longitude": "69.629265",
-        "Description": "Abraham Lincoln, was born on October 2, 1869, in Porbandar, Kathiawar, India, which was then part of the British Empire. His father, Karamchand Gandhi, served as a chief minister in Porbandar and other states in western India. His mother, Putlibai, was a deeply religious woman who fasted regularly. Gandhi grew up worshiping the Hindu god Vishnu and following Jainism, a morally rigorous ancient Indian religion that espoused non-violence, fasting, meditation and vegetarianism.",
-        "link": "http://www.history.co.uk/biographies/mahatma-gandhi"
-      },
-      {
-        "Date": "04/10/1888",
-        "Location": "University College London",
-        "latitude": "51.524706",
-        "longitude": "-0.133569",
-        "Description": "On 4 September 1888, less than a month shy of his 19th birthday, Gandhi traveled to London, England, to study law at University College London and to train as a barrister.",
-        "link": "https://worldhistoryproject.org/1888/9/4/mohandes-gandhi-travels-to-london-to-train-as-a-barrister"
-      },
-      {
-        "Date": "03/12/1930",
-        "Location": "Dandi, Gujarat",
-        "latitude": "20.887427",
-        "longitude": "72.805374",
-        "Description": "On March 12, 1930, Gandhi and 78 male satyagrahis set out on foot for the coastal village of Dandi, Gujarat, 390 kilometres (240 mi) from their starting point at Sabarmati Ashram.",
-        "link": "https://worldhistoryproject.org/1930/4/6/mahatma-gandhi-arrives-at-dandi-gujarat-concluding-the-salt-march"
-      },
-      {
-        "Date": "01/30/1948",
-        "Location": "Birla Bhavan,Delhi",
-        "latitude": "28.592370",
-        "longitude": "77.221461",
-        "Description": "On January 30, 1948, Madanlal Pahwa, Shankar Kistaiya, Digambar Badge, Vishnu Karkare, Gopal Godse, Nathuram Godse, and Narayan Apte came to Birla Bhavan (aka Birla House) in Delhi to carry out another attack on Mahatma Gandhi.",
-        "link": "https://worldhistoryproject.org/1948/1/30/mohandas-karamchand-gandhi-is-assassinated-by-nathuram-godse"
-      }
-    ]
-  }]
+        "Name": "Abraham Lincoln",
+        "Pic": "http://www.history.co.uk/sites/default/files/bios/abraham-lincoln-225x300.jpg",
+        "Events": [
+            {
+                "Date": "12/02/1809",
+                "Location": " Kentucky ",
+                "latitude": "21.641707",
+                "longitude": "69.629265",
+                "Description": "Abraham Lincoln was born on February 12, 1809, to Thomas Lincoln and Nancy Hanks, two uneducated farmers, in a one-room log cabin on the 348-acre (1.4 km2) Sinking Spring Farm, in southeast Hardin County, Kentucky (now part of LaRue County), making him the first president born west of the Appalachians.",
+                "link": "https://worldhistoryproject.org/1809/2/12/abraham-lincoln-is-born",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/093c29bb97bd4bdced1f26e0b5d07902_three_column.jpg"
+            },
+            {
+                "Date": "05/10/1818",
+                "Location": "Kentucky",
+                "latitude": "51.524706",
+                "longitude": "-0.133569",
+                "Description": "Mother Nancy Hanks Lincoln Dies of Milk Sickness.",
+                "link": "https://worldhistoryproject.org/1818/10/5/mother-nancy-hanks-lincoln-dies-of-milk-sickness",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/36345d9ee8591c68b7e7e4adf04c70f3_three_column.jpg"
+            },
+            {
+                "Date": "05/12/1819",
+                "Location": "Kentucky",
+                "latitude": "20.887427",
+                "longitude": "72.805374",
+                "Description": "Sarah Bush Johnston Lincoln (December 13, 1788 - April 12, 1869) was the second wife of Thomas Lincoln and stepmother of President of the United States Abraham Lincoln.",
+                "link": "https://worldhistoryproject.org/1819/12/5/father-thomas-lincoln-remarries-widow-sarah-bush-johnston",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/c4fa198c09d51a45e64632f236a2f125_three_column.jpg"
+            },
+            {
+                "Date": "01/02/1828",
+                "Location": "Birla Bhavan,Delhi",
+                "latitude": "28.592370",
+                "longitude": "77.221461",
+                "Description": "Lincoln Works on Cargo Flatboat Bound for New Orleans.",
+                "link": "https://i1.ytimg.com/vi/RK-2-bxd3Ts/hqdefault.jpg",
+                "img": ""
+            },
+            {
+                "Date": "01/03/1832",
+                "Location": "Illinois ",
+                "latitude": "28.592370",
+                "longitude": "77.221461",
+                "Description": "Lincoln began his political career in 1832 at age 23 with an unsuccessful campaign for the Illinois General Assembly as a member of the Whig Party.",
+                "link": "https://worldhistoryproject.org/1832/3/lincoln-becomes-a-candidate-for-illinois-general-assembly",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/2787c2cd2242e470e9fb642dbdd8a1bb_three_column.jpg"
+            },
+            {
+                "Date": "21/04/1832",
+                "Location": "Beardstown",
+                "latitude": "28.592370",
+                "longitude": "77.221461",
+                "Description": "Lincoln Makes First Enlistment in the Black Hawk War.His first enlistment was as elected captain of a company in the 4th Regiment of Mounted Volunteers, of Gen.",
+                "link": "https://worldhistoryproject.org/1832/4/21/lincoln-makes-first-enlistment-in-the-black-hawk-war",
+                "img": "https://i1.ytimg.com/vi/CKDPxc0g83w/hqdefault.jpg"
+            },
+            {
+                "Date": "04/08/1834",
+                "Location": "Illinois",
+                "latitude": "28.592370",
+                "longitude": "77.221461",
+                "Description": "In 1834, he won an election to the state legislature and, after coming across the Commentaries on the Laws of England, began to teach himself law",
+                "link": "https://worldhistoryproject.org/1834/8/4/lincoln-is-elected-to-the-illinois-state-legislature",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/955b2da9c580f1f27e0d823481228c65_three_column.jpg"
+            },
+            {
+                "Date": "04/11/1842",
+                "Location": "Illinois",
+                "latitude": "28.592370",
+                "longitude": "77.221461",
+                "Description": "On November 4, 1842 Lincoln married Mary Todd, daughter of a prominent slave-owning family from Kentucky.",
+                "link": "https://worldhistoryproject.org/1842/11/4/abraham-lincoln-weds-mary-todd",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/5a73e8029a6c7a01ca8b1f5ca725849c_three_column.jpg"
+            },
+            {
+                "Date": "03/08/1846",
+                "Location": "Illinois",
+                "latitude": "28.592370",
+                "longitude": "77.221461",
+                "Description": "",
+                "link": "https://worldhistoryproject.org/1846/8/3/lincoln-elected-to-congress-as-whig-representative-from-illinois",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/fd63b5d34dd3e013317c91ff2db22a1d_three_column.jpg"
+            },
+            {
+                "Date": "01/02/1828",
+                "Location": "",
+                "latitude": "28.592370",
+                "longitude": "77.221461",
+                "Description": "",
+                "link": "",
+                "img": ""
+            },
+            {
+                "Date": "16/10/1854",
+                "Location": "Missouri ",
+                "latitude": "28.592370",
+                "longitude": "77.221461",
+                "Description": "Speech on the Repeal of the Missouri Compromise Abraham Lincoln Speech at Peoria, Illinois October 16, 1854 The repeal of the Missouri Compromise, and the propriety of its restoration, constitute the subject of what I am about to say.",
+                "link": "https://worldhistoryproject.org/1854/10/16/lincoln-delivers-peoria-speech",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/10aa4568c0becac913cc6eaa0c05c813_three_column.jpg"
+            },
+            {
+                "Date": "21/08/1858",
+                "Location": "Illinois",
+                "latitude": "28.592370",
+                "longitude": "77.221461",
+                "Description": "August 21, 1858, was the day that Abraham Lincoln and Stephen A. Douglas met in Ottawa, Illinois, in the first of the famous Lincoln-Douglas Debates.",
+                "link": "https://worldhistoryproject.org/1858/8/21/lincoln-loses-first-of-the-lincoln-douglas-debates-on-slavery",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/ae0f13ab45960184b283f840dc296574_three_column.jpg"
+            },
+            {
+                "Date": "15/11/1858",
+                "Location": "Illinois",
+                "latitude": "28.592370",
+                "longitude": "77.221461",
+                "Description": "The Slave Debate Comes to a Head at the Seventh and Final Lincoln-Douglas Debate.",
+                "link": "https://worldhistoryproject.org/1858/10/15/the-slave-debate-comes-to-a-head-at-the-seventh-and-final-lincoln-douglas-debate",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/0c44fdfa2787b0406d771baf3e1ee38e_three_column.jpg"
+            },
+            {
+                "Date": "06/11/1860",
+                "Location": "Washington D.C",
+                "latitude": "28.592370",
+                "longitude": "77.221461",
+                "Description": "Abraham Lincoln Elected 16th President of the United States.Lincoln was chosen as the Republican candidate for the 1860 election for several reasons.",
+                "link": "https://worldhistoryproject.org/1860/11/6/abraham-lincoln-elected-16th-president-of-the-united-states",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/473a60749cb325bd29636a3b28143865_three_column.jpg"
+            },
+            {
+                "Date": "01/01/1861",
+                "Location": "Baltimore ",
+                "latitude": "28.592370",
+                "longitude": "77.221461",
+                "Description": "The Baltimore Plot was an alleged conspiracy in late February 1861 to assassinate President-elect Abraham Lincoln en route to his inauguration.",
+                "link": "https://worldhistoryproject.org/1861/2/22/the-baltimore-plot-to-assassinate-abraham-lincoln",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/ecd59e37561ef439e8209e7304e4ac56_three_column.jpg"
+            },
+            {
+                "Date": "04/03/1861",
+                "Location": "Washington D.C",
+                "latitude": "28.592370",
+                "longitude": "77.221461",
+                "Description": "At his inauguration on March 4, 1861, the German American Turners formed Lincoln's bodyguard; and a sizable garrison of federal troops was also present, ready to protect the capital from Confederate invasion and local insurrection. In his first inaugural address, Lincoln declared, \"I hold that in contemplation of universal law and of the Constitution the Union of these States is perpetual. Perpetuity is implied, if not expressed, in the fundamental law of all national governments,\" arguing further that the purpose of the United States Constitution was \"to form a more perfect union\" than the Articles of Confederation which were explicitly perpetual, thus the Constitution too was perpetual.",
+                "link": "https://worldhistoryproject.org/1861/3/4/inauguration-of-abraham-lincoln",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/aff537b74f779e6e68fcaf37866d8bb0_three_column.jpg"
+            },
+            {
+                "Date": "25/02/1862",
+                "Location": "Washington D.C",
+                "latitude": "28.592370",
+                "longitude": "77.221461",
+                "Description": "Lincoln Signs the First Legal Tender Act.The beginning of 1862 found the Union unable to redeem its Demand Notes, which it was using to pay its soldiers, and the value of the notes began to deteriorate.",
+                "link": "https://worldhistoryproject.org/1862/2/25/lincoln-signs-the-first-legal-tender-act",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/8656783bcf7abebcec7023b3d8ceba66_three_column.jpg"
+            },
+            {
+                "Date": "02/07/1864",
+                "Location": "Washington D.C",
+                "latitude": "28.592370",
+                "longitude": "77.221461",
+                "Description": "The Wade-Davis Bill of 1864 was a program proposed for the Reconstruction of the South written by two Radical Republicans, Senator Benjamin Wade of Ohio and Representative Henry Winter Davis of Maryland.",
+                "link": "https://worldhistoryproject.org/1864/7/2/the-wade-davis-bill-passes-both-houses-of-congress",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/13071ad68f2d2711735429ae0a7efc9b_three_column.jpg"
+            },
+            {
+                "Date": "04/03/1865",
+                "Location": "Washington D.C",
+                "latitude": "28.592370",
+                "longitude": "77.221461",
+                "Description": "Abraham Lincoln delivered his second inaugural address on March 4, 1865, during his inauguration at the start of his second term as President of the United States.",
+                "link": "https://worldhistoryproject.org/1865/3/4/lincoln-delivers-second-inaugural-address",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/a9530fd4d250f48d179c880e47de07be_three_column.jpg"
+            },
+            {
+                "Date": "14/04/1865",
+                "Location": "Washington D.C",
+                "latitude": "28.592370",
+                "longitude": "77.221461",
+                "Description": "Shortly after 10 P.M. on April 14, 1865, actor John Wilkes Booth entered the presidential box at Ford's Theatre in Washington, D.C. and fatally shot President Abraham Lincoln.",
+                "link": "https://worldhistoryproject.org/1865/4/14/president-abraham-lincoln-assassinated",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/000/001/418/5a1011752bcb1450c23c0c5a8f8ccfaf_three_column.gif"
+            },
+            {
+                "Date": "06/12/1865",
+                "Location": "Washington D.C",
+                "latitude": "28.592370",
+                "longitude": "77.221461",
+                "Description": "The Thirteenth Amendment to the United States Constitution officially abolished and continues to prohibit slavery and involuntary servitude, except as punishment for a crime.",
+                "link": "https://worldhistoryproject.org/1865/12/6/the-thirteenth-amendment-is-ratified",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/261c1320285a7685b89e37035f58cae5_three_column.jpg"
+            },
+            {
+                "Date": "30/05/1922",
+                "Location": "Washington D.C",
+                "latitude": "28.592370",
+                "longitude": "77.221461",
+                "Description": "The Lincoln Memorial is an American memorial built to honor the 16th President of the United States, Abraham Lincoln. It is located on the National Mall in Washington, D.C. and was dedicated on May 30, 1922. The architect was Henry Bacon, the sculptor of the main statue (Abraham Lincoln, 1920) was Daniel Chester French, and the painter of the interior murals was Jules Guerin. It is one of several monuments built to honor an American president.",
+                "link": "https://worldhistoryproject.org/1922/5/30/lincoln-memorial-dedicated",
+                "img": "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/adb5b3bfd4f15a738be4c4818993de78_three_column.jpg"
+            }
+        ]
+    }]
 }

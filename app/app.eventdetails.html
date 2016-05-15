@@ -1,3 +1,6 @@
 <div *ngIf="eventInstance">
+    <small>On {{eventInstance.Date}} at {{eventInstance.Location}}</small>
+    <div><img *ngIf="eventInstance.img" src="{{eventInstance.img}}" alt="{{eventInstance.img}}"></div>
     <p>{{eventInstance.Description}}</p>
+    <p><a href="{{eventInstance.link}}" target="_blank">Read More</a></p>
 </div>

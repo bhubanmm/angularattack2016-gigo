@@ -1,12 +1,14 @@
-<div>
+<div class='left'>
 <article *ngIf="personality">
-    <h1>{{personality.Name}}</h1>
     <img src="{{personality.Pic}}" alt="{{personality.Name}}"/>
+    <h3>{{personality.Name}}</h3>
 </article>
 </div>
+<div class='right'>
 <div>
-    <ol>
-        <li *ngFor="let event of events"> <a href="#" (click)="showEventDetails(event)">{{event.Date}}</a></li>
+    <ol class="lens-profile-timeline">
+        <li class="event-item" *ngFor="let event of events"> <a href="#" (click)="showEventDetails(event)">{{event.Date}}</a></li>
     </ol>
 </div>
 <event-details [eventInstance]="eventObject"></event-details>
+</div>

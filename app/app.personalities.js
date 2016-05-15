@@ -26,11 +26,11 @@
           self.selectedEntity = self.Personalities[0];
           self.eventsForPerson = self.selectedEntity.Events;
         };        
-        
-        app.AppComponent.prototype.onSelect = function (personality) {
-          this.selectedEntity = personality;
-          this.eventsForPerson = personality.Events;
-        };
+        },
+        onChange: function (selectedIndex) {
+          var selectedPersonality = this.Personalities[selectedIndex]; 
+          this.selectedEntity = selectedPersonality;
+          this.eventsForPerson = selectedPersonality.Events;
         }
     });
     
