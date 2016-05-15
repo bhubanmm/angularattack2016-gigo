@@ -3,4 +3,7 @@
     <div><img *ngIf="eventInstance.img" src="{{eventInstance.img}}" alt="{{eventInstance.img}}"></div>
     <p>{{eventInstance.Description}}</p>
     <p><a class="btn btn-primary btn-lg" href="{{eventInstance.link}}" target="_blank">Read More</a></p>
+    <p>
+        <img src="http://dev.virtualearth.net/REST/V1/Imagery/Map/Road/{{eventInstance.latitude}},{{eventInstance.longitude}}/8?pp={{eventInstance.latitude}},{{eventInstance.longitude}};26&key=AvzA0mBNEOU_n-KKYd8xA5iTb-qC2kCtA-8NSy-ySISxjdDfEIX5auA6j2rJ3Evo" alt="Map"/>
+        </p>
 </div>
