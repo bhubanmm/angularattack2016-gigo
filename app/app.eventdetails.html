@@ -1,6 +1,6 @@
-<div *ngIf="eventInstance">
+<div class="jumbotron" *ngIf="eventInstance">
     <small>On {{eventInstance.Date}} at {{eventInstance.Location}}</small>
     <div><img *ngIf="eventInstance.img" src="{{eventInstance.img}}" alt="{{eventInstance.img}}"></div>
     <p>{{eventInstance.Description}}</p>
-    <p><a href="{{eventInstance.link}}" target="_blank">Read More</a></p>
+    <p><a class="btn btn-primary btn-lg" href="{{eventInstance.link}}" target="_blank">Read More</a></p>
 </div>
